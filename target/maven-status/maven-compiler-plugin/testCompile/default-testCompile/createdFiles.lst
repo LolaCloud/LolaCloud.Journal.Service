@@ -1,0 +1,3 @@
+com/miranda/luna/journal/JournalStatusAndHealthIntegrationTest.class
+com/miranda/luna/journal/LogGroupAndStreamIntegrationTest.class
+com/miranda/luna/journal/infrastructure/security/TestLciAuthClient.class
